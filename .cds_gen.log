@@ -1,0 +1,9 @@
+db/src/gen/.hdiconfig
+db/src/gen/.hdinamespace
+db/src/gen/CatalogService.TEST.hdbview
+db/src/gen/OrdersCAP.hdbtable
+db/src/gen/csv/my.bookshop-Authors.csv
+db/src/gen/csv/my.bookshop-Books.csv
+db/src/gen/csv/my.bookshop-Orders.csv
+srv/gen/CatalogService.xml
+srv/gen/csn.json
